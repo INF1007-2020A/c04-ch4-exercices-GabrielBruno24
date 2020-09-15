@@ -4,7 +4,8 @@
 
 def is_even_len(string: str) -> bool:
     test = string
-    pass
+    
+    return test
 
 
 def remove_third_char(string: str) -> str:
